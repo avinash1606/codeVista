@@ -42,7 +42,7 @@ To get a local copy of this project up and running on your machine, follow these
 
 ## Deployment
 
-This project is deployed on Netlify. You can access the deployed version of the application [here](codevista-my-code-editor.netlify.app).
+This project is deployed on Netlify. You can access the deployed version of the application  [here](https://codevista-my-code-editor.netlify.app).
 
 ## Technologies Used
 
